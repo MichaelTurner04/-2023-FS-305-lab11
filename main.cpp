@@ -35,3 +35,8 @@ int main() {
   return 0;
 
 }
+
+
+// +2.5 for using for loop
+// +2.5 asking for name and course
+// 105
